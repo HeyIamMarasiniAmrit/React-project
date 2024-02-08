@@ -1,4 +1,5 @@
 Project Name: Number Increasing or Decreasing using React.js
+![Screenshot 2024-02-08 125028](https://github.com/HeyIamMarasiniAmrit/React-apps--Basic/assets/101445427/b055e018-04f2-42e6-ab18-a3f12a1e6959)
 
 Description:
 This project demonstrates a simple React.js application that allows users to increase or decrease a number using buttons. It provides a basic interface with buttons to increment or decrement the number displayed on the screen. This project serves as a beginner-friendly introduction to building React.js applications and handling state management.
