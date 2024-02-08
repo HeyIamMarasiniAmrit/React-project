@@ -1,4 +1,6 @@
 Project Name: Number Increasing or Decreasing using React.js
+![new](https://github.com/HeyIamMarasiniAmrit/React-apps--Basic/assets/101445427/e46604dc-3039-48f1-aed2-ba6ecf8ec659)
+
 
 
 Description:
