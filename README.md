@@ -1,5 +1,5 @@
-Project Name: Number Increasing or Decreasing using React.js
-![new](https://github.com/HeyIamMarasiniAmrit/React-apps--Basic/assets/101445427/e46604dc-3039-48f1-aed2-ba6ecf8ec659)
+Project Name: Basic
+![react-project](https://github.com/HeyIamMarasiniAmrit/React-project/assets/101445427/624f9066-a246-4891-9a00-36a8138cce78)
 
 
 
