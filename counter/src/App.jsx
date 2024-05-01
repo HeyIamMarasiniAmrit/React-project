@@ -2,38 +2,25 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import Card from './components/Card'
 
 function App() {
-
-  let [counter, setCounter]  =useState(15)
-
-  //let counter = 15
-  const addValue = () =>{
-    console.log("clicked",Math.counter())
-    //counter = counter + 1
-    setCounter(counter + 1)
+  let myObj = {
+    username: "Amrit",
+    age: 27,
   }
-  const removeValue = () =>{
-    setCounter(counter - 1)
-  }
+  let newArr = [1, 2, 3]
+
+
   
+
 
   return (
     <>
-     <h1>Number Increasing Or Decrising</h1>
-     <h2>Counter value: {counter}</h2>
-
-     <button
-     onClick={addValue}>
-      Add value{counter}</button>
-     <br/>
-     <button
-     onClick={removeValue}
-     
-     >remove value{counter}</button>
-
-     <p>footer: {counter}</p>
-     
+     <h1 className='bg-green-400 text-black p-4 rounded-xl mb-4'>Tailwind Test</h1>
+     <Card username="chaiaurcode" btnText="Click Me"/>
+     <Card username="Amrit" btnText="Visit Me"/>
+       
     </>
   )
 }
